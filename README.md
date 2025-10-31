@@ -6,7 +6,7 @@ Amaç, olasılıksal modellerin küçük ve düzenli veri setlerinde ne kadar et
 ---
 
 ## Kullanılan Teknolojiler
-- Python 🐍  
+- Python   
 - scikit-learn  
 - NumPy  
 - Matplotlib  
